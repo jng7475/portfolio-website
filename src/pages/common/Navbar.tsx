@@ -40,7 +40,7 @@ export const Navbar = () => {
             align={"center"}
           >
             <Image
-              src={"/src/images/jn.jpg"}
+              src={"/images/jn.jpg"}
               alt={`${me.name} profile picture`}
               boxSize={10}
               as={motion.img}

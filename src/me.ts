@@ -37,7 +37,7 @@ export const me = {
   about:
     "I am a senior studying Computer Science at The University of Texas at Dallas",
   location: "Dallas, TX",
-  image: "/src/images/JN.jpg",
+  image: "/src/images/jn.jpg",
   education: [
     {
       degree: "Bachelors of Science",
